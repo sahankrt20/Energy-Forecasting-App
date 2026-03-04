@@ -1,0 +1,9 @@
+django==4.2.9
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+torch==2.2.0
+numpy==1.26.4
+fastapi==0.109.0
+uvicorn==0.27.0
+a2wsgi==1.10.4
+whitenoise==6.6.0

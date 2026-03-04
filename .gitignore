@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.pt
+*.pth
+db.sqlite3
+node_modules/
+frontend/dist/
+staticfiles/
+data/
+.DS_Store
+*.egg-info/
+dist/
+build/
